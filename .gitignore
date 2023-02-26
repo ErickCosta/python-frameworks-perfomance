@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Files
+big_iris.csv
+small_iris.csv
+
 # C extensions
 *.so
 

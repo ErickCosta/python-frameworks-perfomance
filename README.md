@@ -6,3 +6,6 @@
 
 #Dependencies
 ###pip3 install -r requirements.txt
+
+#Run Jupyter Lab Notebooks
+###jupyter labs
